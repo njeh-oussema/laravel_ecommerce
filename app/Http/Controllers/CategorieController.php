@@ -72,7 +72,7 @@ class CategorieController extends Controller
     public function destroy(Categorie $categorie)
     {
         try {
-            $categorie = Categorie::findOrFail($categorie);
+            $categorie = Categorie::findOrFail($categorie   );
             $categorie->delete();
             return response()->json("catégorie supprimée avec succes");
         } catch (\Exception $e) {
