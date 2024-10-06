@@ -22,3 +22,5 @@ Route::get("/categories/{id}", [CategorieController::class, "show"]);
 Route::delete("/categories/{id}", [CategorieController::class, "destroy"]);
 
 Route::put("/categories/{id}", [CategorieController::class, "update"]);
+
+//test 
