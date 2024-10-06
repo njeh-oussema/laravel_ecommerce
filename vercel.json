@@ -16,7 +16,7 @@
         "APP_ENV": "production",
         "APP_DEBUG": "true",
         "APP_URL": "https://oussema.from.vercel.app",
-        "APP_KEY": "mez2MFb5sJpQIO0tXpTQz9DAZGgT2oK7xLFhy2817nk",
+        "APP_KEY": "base64:XYpYK1D1GrcVku7J6Msw7LNa2B6OSMKlEDKqVLKoGSU=",
         "APP_CONFIG_CACHE": "/tmp/config.php",
         "APP_EVENTS_CACHE": "/tmp/events.php",
         "APP_PACKAGES_CACHE": "/tmp/packages.php",
@@ -27,10 +27,10 @@
         "LOG_CHANNEL": "stderr",
         "SESSION_DRIVER": "cookie",
         "DB_CONNECTION": "mysql",
-        "DB_HOST": "db4free.net",
-        "DB_PORT": "3306",
-        "DB_DATABASE": "sql7734080",
-        "DB_USERNAME": "sql7734080",
-        "DB_PASSWORD": "uTSQ7YREdC"
+        "DB_HOST": "mysql-4866fc0-e-commerce01.i.aivencloud.com",
+        "DB_PORT": "25074",
+        "DB_DATABASE": "defaultdb",
+        "DB_USERNAME": "oussema",
+        "DB_PASSWORD": "AVNS_mQi9jArVpO4itchQ8aw"
     }
 }
