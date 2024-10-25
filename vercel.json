@@ -25,12 +25,6 @@
         "VIEW_COMPILED_PATH": "/tmp",
         "CACHE_DRIVER": "array",
         "LOG_CHANNEL": "stderr",
-        "SESSION_DRIVER": "cookie",
-        "DB_CONNECTION": "mysql",
-        "DB_HOST": "mysql-4866fc0-e-commerce01.i.aivencloud.com",
-        "DB_PORT": "25074",
-        "DB_DATABASE": "defaultdb",
-        "DB_USERNAME": "oussema",
-        "DB_PASSWORD": "AVNS_mQi9jArVpO4itchQ8aw"
+        "SESSION_DRIVER": "cookie"
     }
 }
